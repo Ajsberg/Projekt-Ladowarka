@@ -81,3 +81,5 @@ void loop() {
   }
   
 }
+
+//Autor: Kamil Mrowiec Github: https://github.com/Ajsberg/Projekt-Ladowarka
